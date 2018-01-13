@@ -1,3 +1,30 @@
+<<<<<<< HEAD
 .bold_l {
 font-weight: 900
 }
+=======
+/* negrita en texto titulo */
+.bold_l {
+font-weight: bold
+}
+/* tamaño de imagen */
+.img_thumbnail{
+    width: 150px;
+    height: 150px;
+}
+
+
+.titulo{
+size: 30px;
+font-weight: bold;
+}
+
+.categoria{
+    size: 30px;
+    font-weight: bold;
+}
+
+h5{
+    size: 18px;    
+}
+>>>>>>> 90e891e301a748168749ddcaa4ced565d65d568f
